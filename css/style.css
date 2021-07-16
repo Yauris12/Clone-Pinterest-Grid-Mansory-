@@ -37,6 +37,11 @@ body {
     font-size: 1.5rem;
 }
 
+.container {
+    position: fixed;
+    top: 0;
+}
+
 .contenedor {
     max-width: 95%;
     margin: 0 auto;
