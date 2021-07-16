@@ -1,5 +1,5 @@
 # Clone-Pinterest-Grid-Mansory-
-Maquetacion de pinterest usando la propiedad mansory de grid, aunque se encuentra en experimentación.
+Maquetacion de pinterest responsive usando la propiedad mansory de grid, aunque se encuentra en experimentación.
 
 Solo funciona en mozila firefox habilitando la configuración 
 ![](img/config%20Mozila.JPG)
