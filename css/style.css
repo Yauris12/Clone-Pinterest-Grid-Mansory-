@@ -37,13 +37,16 @@ body {
 }
 
 .container {
-    position: fixed;
+    position: sticky;
     top: 0;
+    z-index: 5;
+    background-color: var(--colorWhite)
 }
 
 .contenedor {
     max-width: 95%;
     margin: 0 auto;
+    padding-bottom: 2rem;
 }
 
 
@@ -51,8 +54,9 @@ body {
 
 .navbar {
     display: flex;
-    margin: 2rem 3rem;
+    margin: 0 3rem;
     align-items: center;
+    padding: 2rem 0
 }
 
 .navbar__1 {
